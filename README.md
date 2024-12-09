@@ -10,38 +10,33 @@ The Online Shopping Annual 2023 Report dashboard is created using Microsoft Exce
    
 2.	Metrics Visualized:
    
-  •	Monthly sales and order count.
-  
-  •	Sales distribution by gender, age group and categories.
-  
-  •	Order status.
-  
-  •	Sales performance by states and sales channels.
+     •	Monthly sales and order count.
+     
+     •	Sales distribution by gender, age group and categories.
+     
+     •	Order status.
+     
+     •	Sales performance by states and sales channels.
  
 ## Key Features
+
 1.	Interactive Filters:
    
-  •	Monthly, category and order status filters for dynamic data exploration.
+     •	Monthly, category and order status filters for dynamic data exploration.
 
 2.	Visual Representations:
    
-  •	Bar chart showing the relationship between orders and sales across months.
-  
-  •	Pie charts for gender-wise sales, order statuses and channel contributions.
-  
-  •	Bar chart showcasing top-performing states.
+     •	Bar chart showing the relationship between orders and sales across months.
+     
+     •	Pie charts for gender-wise sales, order statuses and channel contributions.
+     
+     •	Bar chart showcasing top-performing states.
 
 3.	Customer Demographics:
    
-  •	Gender and age-group-based sales analysis.
-  
-  •	Insights into male v/s female contribution to overall sales.
-
-4.	Top Performing Insights:
-   
-  Identification of top 5 states contributing the most to sales.
-  
-  Analysis of the best-performing sales channels.
+     •	Gender and age-group-based sales analysis.
+     
+     •	Insights into male v/s female contribution to overall sales.
 
 ## Conclusion
 This Excel-based dashboard provides a clear and concise view of annual sales performance and customer behaviour. By analysing sales trends, customer demographics and order statuses, businesses can identify key growth opportunities, enhance customer satisfaction and streamline their operations. 
