@@ -2,11 +2,12 @@
 
 ## Project overview
 
-The Online Shopping Annual 2023 Report dashboard is created using Microsoft Excel, which provides a detailed analysis of key sales and order trends. It visualizes critical metrics such as monthly sales, order status, customer demographics.This dashboard is designed to offer actionable insights for better decision-making and to optimize business strategies.
+The Online Shopping Annual Report dashboard is created using Microsoft Excel, which provides a detailed analysis of key sales and order trends. It visualizes critical metrics such as monthly sales, order status, customer demographics.This dashboard is designed to offer actionable insights for better decision-making and to optimize business strategies.
 
 ## Data
 
 1.	Source: E-commerce order and sales data.
+
    
 2.	Metrics Visualized:
    
